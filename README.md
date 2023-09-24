@@ -1,9 +1,9 @@
 # TurkcellPasaj-Selenium-AllureReport
 
-Turkcell/Pasaj E-ticaret Selenium Test Raporu
+## Turkcell/Pasaj E-ticaret Selenium Test Raporu
 
 Bu projede, Turkcell/Pasaj E-ticaret sitesinde gerçekleştirilen 4 farklı senaryo test edildi. Senaryolar, Intelij IDEA ortamında Selenium kullanılarak uygulandı ve sonuçlar Allure Report raporlama aracı ile raporlandı.
-Senaryo 1: Ürün Rengi Değiştirme
+## Senaryo 1: Ürün Rengi Değiştirme
 
 Bu senaryo, aşağıdaki adımları içerir:
 
@@ -11,7 +11,7 @@ Bu senaryo, aşağıdaki adımları içerir:
     Ürünün rengini değiştir.
     Rengin değiştiğini kontrol et.
 
-Senaryo 2: Sepet Karşılaştırma
+## Senaryo 2: Sepet Karşılaştırma
 
 Bu senaryo, aşağıdaki adımları içerir:
 
@@ -19,7 +19,7 @@ Bu senaryo, aşağıdaki adımları içerir:
     Sepete gidin.
     Sepetteki ürün ile eklediğiniz ürünü karşılaştırın.
 
-Senaryo 3: Ödeme Kontrolü
+## Senaryo 3: Ödeme Kontrolü
 
 Bu senaryo, aşağıdaki adımları içerir:
 
@@ -28,7 +28,7 @@ Bu senaryo, aşağıdaki adımları içerir:
     3D Secure ekranındaki kart numarası bilgisi ile girdiğiniz kart bilgilerinin son 4 hanesini karşılaştırın.
     Ödeme ekranındaki fiyat ile sepetteki fiyatı karşılaştırın.
 
-Senaryo 4: En Çok Satan Ürünler Kontrolü
+## Senaryo 4: En Çok Satan Ürünler Kontrolü
 
 Bu senaryo, aşağıdaki adımları içerir:
 
@@ -36,13 +36,14 @@ Bu senaryo, aşağıdaki adımları içerir:
     Ürün sayısını kontrol edin.
     "En Çok Satanlar" yazısının rengini ve kalınlığını kontrol edin.
 
-Raporlar
+## Raporlar
 
 Testlerin sonuçları Allure Report ile ayrıntılı bir şekilde raporlandı. Raporlar projenin kök dizininde bulunabilir.
 
-Katkıda Bulunma
+## Katkıda Bulunma
 
 Katkılarınızı memnuniyetle karşılıyoruz. Projeye katkıda bulunmak veya hataları düzeltmek için bir pull talebi gönderebilirsiniz.
-Lisans
+
+## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
