@@ -3,6 +3,11 @@
 ## Turkcell/Pasaj E-ticaret Selenium Test Raporu
 
 Bu projede, Turkcell/Pasaj E-ticaret sitesinde gerçekleştirilen 4 farklı senaryo test edildi. Senaryolar, Intelij IDEA ortamında Selenium kullanılarak uygulandı ve sonuçlar Allure Report raporlama aracı ile raporlandı.
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/projects/404/27dde6155662395.Y3JvcCw4MDgsNjMyLDAsMA.png" alt="Project Logo" width="300" />
+</p>
+
 ## Senaryo 1: Ürün Rengi Değiştirme
 
 Bu senaryo, aşağıdaki adımları içerir:
